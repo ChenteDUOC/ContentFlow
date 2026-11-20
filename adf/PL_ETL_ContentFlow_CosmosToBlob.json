@@ -1,0 +1,228 @@
+{
+    "name": "PL_ETL_ContentFlow_CosmosToBlob",
+    "properties": {
+        "activities": [
+            {
+                "name": "Copiar_Campanas_Metas",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "CosmosDbSqlApiSource",
+                        "query": "-- Copiar_Campanas_Metas  (aplana metas y deriva el mes)\nSELECT c.id AS campana_id, c.nombre, c.objetivo, c.fecha_inicio, c.fecha_fin,\n       SUBSTRING(c.fecha_inicio, 0, 7)         AS mes_inicio,\n       c.metricas_objetivo.likes               AS meta_likes,\n       c.metricas_objetivo.comentarios         AS meta_comentarios,\n       c.metricas_objetivo.compartidos         AS meta_compartidos,\n       ARRAY_LENGTH(c.publicaciones_asociadas) AS n_publicaciones\nFROM c",
+                        "preferredRegions": []
+                    },
+                    "sink": {
+                        "type": "DelimitedTextSink",
+                        "storeSettings": {
+                            "type": "AzureBlobStorageWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "DelimitedTextWriteSettings",
+                            "quoteAllText": true,
+                            "fileExtension": ".txt"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "DS_Cosmos_Campanas",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "DS_Blob_CampanasMetas",
+                        "type": "DatasetReference"
+                    }
+                ]
+            },
+            {
+                "name": "Copiar_Campana_Publicacion",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "CosmosDbSqlApiSource",
+                        "query": "-- Copiar_Campana_Publicacion  (desanida el arreglo: una fila por publicación asociada)\nSELECT c.id AS campana_id, p AS publicacion_id\nFROM c\nJOIN p IN c.publicaciones_asociadas",
+                        "preferredRegions": []
+                    },
+                    "sink": {
+                        "type": "DelimitedTextSink",
+                        "storeSettings": {
+                            "type": "AzureBlobStorageWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "DelimitedTextWriteSettings",
+                            "quoteAllText": true,
+                            "fileExtension": ".txt"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "DS_Cosmos_Campanas",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "DS_Blob_CampanaPublicacion",
+                        "type": "DatasetReference"
+                    }
+                ]
+            },
+            {
+                "name": "Copiar_Publicaciones",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "CosmosDbSqlApiSource",
+                        "query": "-- Copiar_Publicaciones  (sin contenido ni hashtags; hora = caracteres 12-13 de la fecha ISO)\nSELECT c.id AS publicacion_id, c.usuario_id, c.categoria, c.tipo, c.fecha_publicacion,\n       SUBSTRING(c.fecha_publicacion, 11, 2) AS hora\nFROM c",
+                        "preferredRegions": []
+                    },
+                    "sink": {
+                        "type": "DelimitedTextSink",
+                        "storeSettings": {
+                            "type": "AzureBlobStorageWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "DelimitedTextWriteSettings",
+                            "quoteAllText": true,
+                            "fileExtension": ".txt"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "DS_Cosmos_Publicaciones",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "DS_Blob_Publicaciones",
+                        "type": "DatasetReference"
+                    }
+                ]
+            },
+            {
+                "name": "Copiar_Reacciones",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "CosmosDbSqlApiSource",
+                        "query": "-- Copiar_Reacciones\nSELECT c.id AS reaccion_id, c.usuario_id, c.publicacion_id, c.tipo_reaccion, c.fecha,\n       SUBSTRING(c.fecha, 0, 7) AS mes\nFROM c",
+                        "preferredRegions": []
+                    },
+                    "sink": {
+                        "type": "DelimitedTextSink",
+                        "storeSettings": {
+                            "type": "AzureBlobStorageWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "DelimitedTextWriteSettings",
+                            "quoteAllText": true,
+                            "fileExtension": ".txt"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "DS_Cosmos_Reacciones",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "DS_Blob_Reacciones",
+                        "type": "DatasetReference"
+                    }
+                ]
+            },
+            {
+                "name": "Copiar_Comentarios",
+                "type": "Copy",
+                "dependsOn": [],
+                "policy": {
+                    "timeout": "0.12:00:00",
+                    "retry": 0,
+                    "retryIntervalInSeconds": 30,
+                    "secureOutput": false,
+                    "secureInput": false
+                },
+                "userProperties": [],
+                "typeProperties": {
+                    "source": {
+                        "type": "CosmosDbSqlApiSource",
+                        "query": "-- Copiar_Comentarios  (sin el texto del comentario)\nSELECT c.id AS comentario_id, c.usuario_id, c.publicacion_id, c.fecha,\n       SUBSTRING(c.fecha, 0, 7) AS mes, c.likes\nFROM c",
+                        "preferredRegions": []
+                    },
+                    "sink": {
+                        "type": "DelimitedTextSink",
+                        "storeSettings": {
+                            "type": "AzureBlobStorageWriteSettings"
+                        },
+                        "formatSettings": {
+                            "type": "DelimitedTextWriteSettings",
+                            "quoteAllText": true,
+                            "fileExtension": ".txt"
+                        }
+                    },
+                    "enableStaging": false
+                },
+                "inputs": [
+                    {
+                        "referenceName": "DS_Cosmos_Comentarios",
+                        "type": "DatasetReference"
+                    }
+                ],
+                "outputs": [
+                    {
+                        "referenceName": "DS_Blob_Comentarios",
+                        "type": "DatasetReference"
+                    }
+                ]
+            }
+        ],
+        "annotations": []
+    }
+}
