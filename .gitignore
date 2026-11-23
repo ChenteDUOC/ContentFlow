@@ -50,3 +50,6 @@ informe/build/
 # EP3: HTML intermedio del informe (se regenera con generar_informe_ep3.py)
 informe/ep3/informe_ep3.html
 informe/ep3/.perfil_navegador/
+
+# Guion de presentacion: solo local
+presentacion/GUION_PRESENTACION.md
