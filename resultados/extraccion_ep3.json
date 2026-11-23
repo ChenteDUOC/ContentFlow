@@ -1,0 +1,40 @@
+{
+  "generado": "2026-11-20T17:23:16",
+  "filas_leidas": {
+    "campañas": 500,
+    "publicaciones": 500,
+    "reacciones": 500,
+    "comentarios": 500,
+    "usuarios": 500
+  },
+  "filas_escritas": {
+    "dim_campanas": 500,
+    "puente_campana_publicacion": 1487,
+    "dim_publicaciones": 500,
+    "dim_usuarios": 500,
+    "fact_reacciones": 500,
+    "fact_comentarios": 500,
+    "kpi_cumplimiento_campana": 500,
+    "kpi_cumplimiento_mensual": 30
+  },
+  "atributos_excluidos": {
+    "usuarios": [
+      "correo",
+      "genero",
+      "pais",
+      "fecha_registro"
+    ],
+    "publicaciones": [
+      "contenido",
+      "hashtags"
+    ],
+    "comentarios": [
+      "comentario (texto libre)"
+    ]
+  },
+  "calidad": {
+    "publicaciones_asociadas_inexistentes": 0,
+    "reacciones_anteriores_a_la_publicacion": 245,
+    "comentarios_anteriores_a_la_publicacion": 251
+  }
+}

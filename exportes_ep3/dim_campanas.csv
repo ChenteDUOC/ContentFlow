@@ -1,0 +1,501 @@
+﻿campana_id,nombre,objetivo,fecha_inicio,fecha_fin,mes_inicio,meta_likes,meta_comentarios,meta_compartidos,n_publicaciones
+camp_1,Campaña Exist,Captar nuevos usuarios,2025-03-21T17:28:06,2025-06-10T11:21:43,2025-03,692,420,294,5
+camp_2,Campaña Area,Aumentar engagement,2025-02-17T22:26:01,2025-05-17T22:19:49,2025-02,223,300,213,1
+camp_3,Campaña Deep,Aumentar engagement,2025-01-22T03:47:37,2025-06-19T21:48:42,2025-01,918,309,214,3
+camp_4,Campaña With,Promover contenido,2024-08-15T09:10:15,2025-06-25T04:07:50,2024-08,116,53,224,4
+camp_5,Campaña Focus,Promover contenido,2025-02-25T17:25:33,2025-05-03T05:57:04,2025-02,469,208,63,4
+camp_6,Campaña Item,Aumentar engagement,2024-09-10T04:35:22,2025-06-03T07:51:29,2024-09,818,93,229,4
+camp_7,Campaña Each,Captar nuevos usuarios,2025-03-16T02:03:12,2025-05-23T02:56:20,2025-03,762,215,53,4
+camp_8,Campaña Above,Aumentar engagement,2025-03-24T02:20:37,2025-05-26T08:11:55,2025-03,678,54,95,2
+camp_9,Campaña Almost,Aumentar engagement,2024-08-04T22:18:16,2025-06-27T11:23:00,2024-08,162,355,137,5
+camp_10,Campaña Bank,Aumentar engagement,2024-09-11T08:26:03,2025-07-06T10:10:19,2024-09,529,138,119,3
+camp_11,Campaña Later,Aumentar engagement,2024-12-22T20:34:39,2025-07-10T07:02:01,2024-12,473,500,86,5
+camp_12,Campaña Feeling,Aumentar engagement,2024-12-14T05:22:56,2025-06-18T10:33:53,2024-12,413,256,221,2
+camp_13,Campaña Their,Aumentar engagement,2024-07-29T17:59:56,2025-06-13T11:12:02,2024-07,439,64,270,3
+camp_14,Campaña Successful,Aumentar engagement,2024-12-31T03:33:48,2025-04-24T22:48:33,2024-12,517,73,223,1
+camp_15,Campaña Feel,Aumentar engagement,2025-03-07T12:44:08,2025-07-02T15:54:52,2025-03,457,164,77,5
+camp_16,Campaña Although,Promover contenido,2025-02-20T15:44:10,2025-07-09T20:14:53,2025-02,525,488,255,4
+camp_17,Campaña Because,Captar nuevos usuarios,2024-07-18T02:11:06,2025-04-22T04:22:14,2024-07,100,209,273,2
+camp_18,Campaña Picture,Promover contenido,2024-08-25T22:29:02,2025-05-29T08:12:10,2024-08,772,326,217,4
+camp_19,Campaña Including,Captar nuevos usuarios,2024-11-30T17:33:11,2025-07-07T15:33:06,2024-11,951,486,130,5
+camp_20,Campaña Reduce,Aumentar engagement,2025-03-02T20:58:38,2025-07-11T09:12:17,2025-03,924,123,145,2
+camp_21,Campaña Future,Aumentar engagement,2024-11-12T14:09:46,2025-05-20T14:47:17,2024-11,834,256,174,1
+camp_22,Campaña Yes,Captar nuevos usuarios,2024-11-13T09:30:52,2025-06-26T13:16:42,2024-11,775,204,198,5
+camp_23,Campaña Energy,Captar nuevos usuarios,2024-07-30T16:04:23,2025-04-22T22:21:51,2024-07,373,439,97,4
+camp_24,Campaña Big,Aumentar engagement,2025-01-15T22:16:12,2025-07-12T13:21:07,2025-01,693,427,47,3
+camp_25,Campaña Natural,Aumentar engagement,2024-10-28T00:02:00,2025-07-09T13:24:38,2024-10,114,123,47,4
+camp_26,Campaña Instead,Promover contenido,2024-09-04T05:22:22,2025-06-20T04:06:24,2024-09,111,342,276,2
+camp_27,Campaña Simple,Captar nuevos usuarios,2025-01-22T06:36:52,2025-06-27T05:24:10,2025-01,515,281,139,4
+camp_28,Campaña Fire,Aumentar engagement,2025-03-25T08:59:56,2025-06-23T16:49:22,2025-03,862,193,293,4
+camp_29,Campaña Close,Promover contenido,2024-07-17T06:33:03,2025-06-19T09:53:48,2024-07,449,463,279,3
+camp_30,Campaña Forward,Promover contenido,2024-09-23T21:02:40,2025-07-06T08:49:29,2024-09,881,315,164,5
+camp_31,Campaña Send,Promover contenido,2024-09-04T07:36:56,2025-05-20T14:55:09,2024-09,536,378,43,1
+camp_32,Campaña Reduce,Aumentar engagement,2025-04-03T16:23:01,2025-06-10T00:22:02,2025-04,223,331,181,5
+camp_33,Campaña Own,Promover contenido,2025-01-28T07:22:48,2025-07-13T07:36:12,2025-01,563,273,72,2
+camp_34,Campaña Lot,Captar nuevos usuarios,2025-04-08T05:46:08,2025-07-06T16:14:52,2025-04,299,122,143,5
+camp_35,Campaña Decade,Captar nuevos usuarios,2024-08-06T13:33:39,2025-06-05T01:52:56,2024-08,862,231,299,1
+camp_36,Campaña Staff,Captar nuevos usuarios,2024-09-30T15:11:51,2025-05-02T22:45:40,2024-09,148,459,215,5
+camp_37,Campaña Boy,Promover contenido,2024-12-22T11:57:40,2025-05-26T03:39:02,2024-12,262,101,114,5
+camp_38,Campaña Hour,Aumentar engagement,2024-12-17T21:57:10,2025-06-11T22:06:07,2024-12,653,362,247,5
+camp_39,Campaña Various,Promover contenido,2024-08-25T18:49:46,2025-04-22T01:47:22,2024-08,403,249,297,2
+camp_40,Campaña So,Aumentar engagement,2025-01-05T09:20:42,2025-04-23T08:42:30,2025-01,838,203,30,4
+camp_41,Campaña Product,Captar nuevos usuarios,2025-02-07T07:32:59,2025-06-22T12:34:07,2025-02,669,392,189,1
+camp_42,Campaña Region,Captar nuevos usuarios,2024-12-19T12:39:31,2025-06-29T12:55:38,2024-12,708,84,60,2
+camp_43,Campaña Whatever,Aumentar engagement,2024-08-10T03:33:24,2025-07-10T13:27:21,2024-08,882,463,154,4
+camp_44,Campaña Buy,Promover contenido,2025-01-23T17:46:40,2025-04-26T16:08:26,2025-01,705,149,157,4
+camp_45,Campaña Different,Promover contenido,2025-04-01T09:58:43,2025-05-12T04:05:03,2025-04,243,255,93,3
+camp_46,Campaña A,Aumentar engagement,2025-03-20T21:56:38,2025-05-01T21:04:35,2025-03,788,191,197,5
+camp_47,Campaña Help,Aumentar engagement,2024-07-28T15:25:46,2025-04-19T19:15:31,2024-07,633,209,298,1
+camp_48,Campaña Investment,Captar nuevos usuarios,2024-10-28T09:03:40,2025-05-04T17:23:53,2024-10,712,291,148,1
+camp_49,Campaña Choose,Captar nuevos usuarios,2025-01-09T15:23:09,2025-05-28T10:51:09,2025-01,724,282,108,4
+camp_50,Campaña Whatever,Captar nuevos usuarios,2024-10-23T12:33:32,2025-05-11T10:18:34,2024-10,449,498,169,1
+camp_51,Campaña Force,Promover contenido,2025-02-24T01:13:01,2025-06-19T09:04:51,2025-02,215,370,268,1
+camp_52,Campaña Follow,Captar nuevos usuarios,2025-04-02T09:31:30,2025-05-27T19:24:16,2025-04,986,456,279,4
+camp_53,Campaña Ground,Aumentar engagement,2024-09-08T01:13:55,2025-05-29T11:23:11,2024-09,849,358,215,3
+camp_54,Campaña Report,Captar nuevos usuarios,2025-04-07T23:12:42,2025-05-22T04:48:05,2025-04,606,478,251,2
+camp_55,Campaña Ask,Promover contenido,2024-11-16T20:27:31,2025-05-06T07:25:35,2024-11,962,420,171,4
+camp_56,Campaña Feel,Promover contenido,2025-01-25T10:47:08,2025-07-12T21:55:29,2025-01,782,478,158,3
+camp_57,Campaña Military,Captar nuevos usuarios,2025-04-02T13:37:11,2025-07-09T03:04:01,2025-04,925,298,154,3
+camp_58,Campaña Everyone,Promover contenido,2024-08-15T12:14:41,2025-04-25T13:18:49,2024-08,206,449,279,5
+camp_59,Campaña Its,Captar nuevos usuarios,2024-07-21T09:35:15,2025-05-02T20:42:08,2024-07,491,71,85,5
+camp_60,Campaña Movie,Captar nuevos usuarios,2024-12-07T20:57:57,2025-06-24T16:40:46,2024-12,197,110,152,5
+camp_61,Campaña Page,Captar nuevos usuarios,2024-11-29T11:09:26,2025-05-06T06:55:08,2024-11,531,467,231,3
+camp_62,Campaña Series,Captar nuevos usuarios,2025-02-14T00:03:08,2025-06-08T19:23:01,2025-02,907,275,265,1
+camp_63,Campaña Set,Captar nuevos usuarios,2025-01-25T05:37:02,2025-05-20T23:02:40,2025-01,862,448,251,5
+camp_64,Campaña Her,Captar nuevos usuarios,2025-03-05T10:45:03,2025-06-18T16:39:58,2025-03,285,62,198,1
+camp_65,Campaña We,Promover contenido,2025-02-18T11:17:33,2025-06-04T12:59:38,2025-02,921,64,263,1
+camp_66,Campaña Wind,Promover contenido,2024-11-15T12:16:17,2025-06-11T08:39:22,2024-11,460,177,171,3
+camp_67,Campaña Work,Captar nuevos usuarios,2024-09-26T08:40:06,2025-04-23T09:12:45,2024-09,750,184,112,4
+camp_68,Campaña Ever,Captar nuevos usuarios,2024-08-11T17:05:42,2025-06-21T23:24:12,2024-08,763,214,235,2
+camp_69,Campaña Guy,Promover contenido,2024-11-18T02:54:27,2025-05-03T12:17:14,2024-11,977,95,200,3
+camp_70,Campaña Strategy,Aumentar engagement,2025-02-06T05:28:56,2025-06-28T06:02:52,2025-02,424,474,186,3
+camp_71,Campaña Still,Captar nuevos usuarios,2024-09-17T13:58:05,2025-06-30T16:10:26,2024-09,192,377,237,1
+camp_72,Campaña Drive,Aumentar engagement,2024-08-03T22:30:24,2025-07-04T20:39:30,2024-08,874,245,133,3
+camp_73,Campaña Training,Promover contenido,2024-08-23T01:25:12,2025-05-26T09:32:39,2024-08,445,462,254,3
+camp_74,Campaña Wind,Aumentar engagement,2024-10-29T22:45:56,2025-06-27T08:33:42,2024-10,430,58,87,3
+camp_75,Campaña During,Captar nuevos usuarios,2024-07-23T13:45:10,2025-06-20T14:13:41,2024-07,817,378,181,2
+camp_76,Campaña Employee,Aumentar engagement,2025-03-16T04:40:43,2025-04-30T14:57:38,2025-03,303,97,76,5
+camp_77,Campaña Player,Promover contenido,2025-01-23T20:45:31,2025-06-01T02:08:06,2025-01,249,416,204,5
+camp_78,Campaña Sea,Aumentar engagement,2024-11-01T01:45:32,2025-05-16T06:08:56,2024-11,965,426,180,5
+camp_79,Campaña Question,Promover contenido,2024-11-04T04:28:10,2025-05-09T16:30:57,2024-11,945,70,155,5
+camp_80,Campaña Drive,Aumentar engagement,2024-09-10T02:55:24,2025-06-14T05:04:39,2024-09,953,405,142,5
+camp_81,Campaña Scientist,Promover contenido,2024-11-12T15:48:41,2025-05-21T02:58:50,2024-11,763,465,140,2
+camp_82,Campaña Respond,Aumentar engagement,2025-01-08T22:18:01,2025-06-07T14:59:29,2025-01,121,489,277,2
+camp_83,Campaña Later,Aumentar engagement,2025-01-25T08:54:37,2025-06-23T22:17:34,2025-01,522,145,295,4
+camp_84,Campaña Question,Promover contenido,2024-11-02T06:49:36,2025-07-11T21:12:10,2024-11,864,183,216,5
+camp_85,Campaña Second,Aumentar engagement,2024-08-05T12:20:11,2025-05-16T06:12:07,2024-08,427,326,212,3
+camp_86,Campaña Tough,Captar nuevos usuarios,2025-01-15T02:29:13,2025-05-31T17:49:34,2025-01,237,214,156,1
+camp_87,Campaña Carry,Captar nuevos usuarios,2024-10-25T07:22:05,2025-06-18T09:37:03,2024-10,825,293,190,5
+camp_88,Campaña Provide,Captar nuevos usuarios,2024-12-15T09:11:21,2025-06-26T11:12:40,2024-12,333,418,208,1
+camp_89,Campaña Eye,Aumentar engagement,2025-03-13T13:05:26,2025-06-03T07:21:38,2025-03,571,366,254,5
+camp_90,Campaña Citizen,Aumentar engagement,2025-01-29T15:53:15,2025-05-08T02:49:38,2025-01,122,336,259,4
+camp_91,Campaña Recently,Captar nuevos usuarios,2024-11-07T12:11:15,2025-04-27T14:26:07,2024-11,251,82,211,5
+camp_92,Campaña Order,Captar nuevos usuarios,2024-07-19T13:46:06,2025-05-27T10:29:25,2024-07,382,341,159,1
+camp_93,Campaña Little,Captar nuevos usuarios,2025-03-16T10:39:04,2025-07-13T19:11:20,2025-03,602,270,98,1
+camp_94,Campaña Structure,Captar nuevos usuarios,2025-03-28T14:15:42,2025-07-11T02:53:41,2025-03,813,395,185,4
+camp_95,Campaña Bad,Captar nuevos usuarios,2024-07-24T01:59:15,2025-04-20T17:57:55,2024-07,516,123,191,3
+camp_96,Campaña Pick,Captar nuevos usuarios,2025-02-22T21:13:47,2025-05-30T13:34:11,2025-02,154,414,213,1
+camp_97,Campaña Operation,Captar nuevos usuarios,2024-11-05T20:37:53,2025-05-15T22:21:15,2024-11,523,423,112,5
+camp_98,Campaña Consumer,Aumentar engagement,2025-03-10T22:12:05,2025-06-05T22:21:28,2025-03,955,142,45,2
+camp_99,Campaña Company,Aumentar engagement,2025-02-25T11:04:00,2025-06-11T22:57:35,2025-02,513,343,228,4
+camp_100,Campaña End,Promover contenido,2024-08-10T06:22:44,2025-05-24T10:43:02,2024-08,287,99,189,4
+camp_101,Campaña Provide,Promover contenido,2024-10-24T11:17:06,2025-04-30T08:31:08,2024-10,611,96,124,3
+camp_102,Campaña Campaign,Promover contenido,2024-09-03T14:18:26,2025-06-05T10:28:34,2024-09,762,374,71,3
+camp_103,Campaña Card,Captar nuevos usuarios,2024-12-27T03:51:13,2025-05-22T03:19:08,2024-12,363,60,61,3
+camp_104,Campaña Move,Aumentar engagement,2024-11-28T00:38:26,2025-06-15T07:24:37,2024-11,641,56,32,5
+camp_105,Campaña Many,Captar nuevos usuarios,2024-08-04T03:54:06,2025-07-10T18:21:04,2024-08,676,241,65,3
+camp_106,Campaña Space,Captar nuevos usuarios,2024-09-23T12:03:52,2025-05-15T05:09:16,2024-09,610,143,141,2
+camp_107,Campaña Name,Aumentar engagement,2025-03-02T14:05:38,2025-04-24T13:25:05,2025-03,714,241,120,3
+camp_108,Campaña Ability,Aumentar engagement,2024-11-25T14:14:05,2025-06-19T01:50:39,2024-11,619,126,257,4
+camp_109,Campaña Himself,Aumentar engagement,2025-01-13T23:41:09,2025-06-11T08:35:41,2025-01,650,456,91,1
+camp_110,Campaña Page,Promover contenido,2025-02-21T03:56:25,2025-04-26T05:23:31,2025-02,799,142,295,3
+camp_111,Campaña High,Promover contenido,2025-02-05T23:38:52,2025-06-28T19:09:11,2025-02,297,358,109,2
+camp_112,Campaña Every,Captar nuevos usuarios,2024-10-12T09:36:40,2025-05-13T07:16:52,2024-10,661,475,229,5
+camp_113,Campaña Resource,Aumentar engagement,2024-11-28T20:07:15,2025-07-13T06:01:06,2024-11,446,176,217,4
+camp_114,Campaña Human,Promover contenido,2024-11-28T15:46:54,2025-04-28T23:31:42,2024-11,292,456,236,2
+camp_115,Campaña Rather,Aumentar engagement,2024-09-10T20:41:59,2025-07-01T10:32:30,2024-09,591,465,80,1
+camp_116,Campaña Dog,Captar nuevos usuarios,2024-11-04T00:19:23,2025-05-07T11:38:55,2024-11,676,344,297,5
+camp_117,Campaña Wide,Promover contenido,2024-10-26T15:09:15,2025-05-14T08:17:34,2024-10,428,119,259,4
+camp_118,Campaña Arrive,Captar nuevos usuarios,2025-01-13T03:25:11,2025-06-23T18:54:37,2025-01,536,256,252,2
+camp_119,Campaña Agreement,Promover contenido,2025-01-31T06:49:44,2025-07-01T14:14:44,2025-01,674,297,229,4
+camp_120,Campaña Again,Promover contenido,2024-12-23T13:28:42,2025-07-09T11:19:50,2024-12,889,400,58,3
+camp_121,Campaña Reach,Promover contenido,2024-10-07T16:27:49,2025-04-24T12:39:54,2024-10,701,432,118,5
+camp_122,Campaña Yard,Aumentar engagement,2024-10-16T13:46:01,2025-06-13T23:53:59,2024-10,148,205,227,3
+camp_123,Campaña Get,Captar nuevos usuarios,2025-03-09T15:50:20,2025-06-19T13:59:35,2025-03,153,471,252,2
+camp_124,Campaña Final,Captar nuevos usuarios,2024-10-16T07:19:58,2025-05-18T22:50:53,2024-10,815,72,139,5
+camp_125,Campaña Worker,Aumentar engagement,2025-01-06T07:23:35,2025-06-09T00:57:23,2025-01,326,414,193,1
+camp_126,Campaña So,Aumentar engagement,2025-03-27T07:39:32,2025-05-13T18:53:33,2025-03,607,155,37,1
+camp_127,Campaña Tough,Promover contenido,2024-11-19T06:51:35,2025-06-16T18:12:28,2024-11,310,402,89,1
+camp_128,Campaña Against,Captar nuevos usuarios,2025-01-15T03:45:20,2025-05-07T22:35:27,2025-01,933,475,199,3
+camp_129,Campaña Rock,Aumentar engagement,2024-09-01T14:10:09,2025-05-02T18:34:08,2024-09,480,478,235,2
+camp_130,Campaña Necessary,Aumentar engagement,2024-09-17T03:14:19,2025-04-24T17:48:41,2024-09,713,176,162,1
+camp_131,Campaña Public,Captar nuevos usuarios,2024-08-23T18:03:06,2025-07-03T17:27:10,2024-08,417,154,169,4
+camp_132,Campaña Away,Promover contenido,2024-09-24T11:51:59,2025-05-25T19:45:28,2024-09,486,192,127,4
+camp_133,Campaña Foot,Captar nuevos usuarios,2025-03-20T03:50:01,2025-05-02T09:34:43,2025-03,504,71,259,4
+camp_134,Campaña Between,Aumentar engagement,2025-03-28T22:39:52,2025-06-06T05:21:24,2025-03,172,376,88,2
+camp_135,Campaña Bar,Promover contenido,2024-11-16T15:22:50,2025-05-12T11:32:27,2024-11,168,143,197,1
+camp_136,Campaña Everybody,Promover contenido,2025-01-24T04:00:51,2025-06-10T08:59:43,2025-01,797,416,233,2
+camp_137,Campaña Mouth,Captar nuevos usuarios,2025-02-27T06:43:29,2025-05-08T17:33:15,2025-02,367,105,91,3
+camp_138,Campaña Speak,Aumentar engagement,2025-01-11T23:28:16,2025-06-18T08:07:06,2025-01,668,483,284,4
+camp_139,Campaña Lose,Aumentar engagement,2024-08-04T18:13:28,2025-06-03T23:07:39,2024-08,580,295,85,2
+camp_140,Campaña Article,Aumentar engagement,2024-12-06T06:52:26,2025-07-09T16:57:29,2024-12,953,248,124,1
+camp_141,Campaña Ahead,Captar nuevos usuarios,2025-01-04T00:51:12,2025-04-20T01:31:47,2025-01,925,84,153,1
+camp_142,Campaña Pretty,Aumentar engagement,2024-12-06T17:10:28,2025-06-19T06:38:43,2024-12,552,355,51,4
+camp_143,Campaña Set,Captar nuevos usuarios,2024-07-23T08:59:49,2025-06-18T14:40:31,2024-07,425,72,37,5
+camp_144,Campaña Interest,Promover contenido,2024-09-04T03:59:52,2025-05-24T23:40:20,2024-09,279,229,266,2
+camp_145,Campaña Relate,Aumentar engagement,2024-10-08T00:27:23,2025-05-05T15:12:18,2024-10,500,244,108,2
+camp_146,Campaña Life,Aumentar engagement,2024-12-19T18:41:49,2025-05-05T00:45:55,2024-12,742,149,201,3
+camp_147,Campaña Work,Aumentar engagement,2024-10-22T19:10:50,2025-06-25T22:12:54,2024-10,716,320,177,4
+camp_148,Campaña Realize,Aumentar engagement,2024-10-02T03:11:58,2025-04-30T05:52:48,2024-10,214,400,63,5
+camp_149,Campaña Late,Captar nuevos usuarios,2024-11-22T14:40:44,2025-05-31T14:31:45,2024-11,273,420,194,4
+camp_150,Campaña Claim,Aumentar engagement,2024-07-16T21:52:01,2025-07-01T06:50:27,2024-07,800,169,33,3
+camp_151,Campaña Mission,Promover contenido,2025-03-08T02:42:56,2025-06-07T14:56:06,2025-03,887,340,91,4
+camp_152,Campaña Area,Aumentar engagement,2024-10-22T18:50:31,2025-06-28T08:16:29,2024-10,677,329,67,2
+camp_153,Campaña Military,Promover contenido,2024-07-31T04:38:51,2025-06-03T08:22:43,2024-07,685,380,227,1
+camp_154,Campaña Must,Promover contenido,2025-03-13T23:51:50,2025-07-03T10:27:18,2025-03,866,171,281,3
+camp_155,Campaña Situation,Aumentar engagement,2025-03-21T11:32:18,2025-05-11T01:57:44,2025-03,565,324,214,5
+camp_156,Campaña Let,Captar nuevos usuarios,2025-03-07T07:07:09,2025-06-06T19:54:51,2025-03,848,139,228,2
+camp_157,Campaña Moment,Captar nuevos usuarios,2025-01-23T17:15:27,2025-06-21T01:09:36,2025-01,121,271,183,3
+camp_158,Campaña Get,Promover contenido,2024-09-16T22:59:22,2025-06-24T14:55:52,2024-09,827,500,146,2
+camp_159,Campaña Reach,Aumentar engagement,2024-09-27T17:26:37,2025-06-16T20:23:45,2024-09,515,265,243,4
+camp_160,Campaña Perform,Promover contenido,2025-03-14T01:45:44,2025-05-29T19:46:49,2025-03,574,236,202,4
+camp_161,Campaña Thing,Captar nuevos usuarios,2024-09-29T10:01:02,2025-05-25T08:55:49,2024-09,642,155,155,3
+camp_162,Campaña Others,Captar nuevos usuarios,2024-08-26T21:22:59,2025-07-05T08:09:46,2024-08,299,497,216,2
+camp_163,Campaña Natural,Promover contenido,2024-11-09T08:12:21,2025-05-22T18:21:18,2024-11,483,379,187,4
+camp_164,Campaña Factor,Promover contenido,2024-10-27T14:09:15,2025-04-28T01:44:53,2024-10,211,327,261,2
+camp_165,Campaña Trial,Captar nuevos usuarios,2025-04-05T06:24:50,2025-07-04T22:13:55,2025-04,522,76,132,3
+camp_166,Campaña Peace,Aumentar engagement,2025-02-12T09:57:33,2025-06-22T00:37:15,2025-02,775,246,294,2
+camp_167,Campaña Door,Captar nuevos usuarios,2025-01-28T11:59:36,2025-05-22T19:13:30,2025-01,311,247,118,4
+camp_168,Campaña Local,Aumentar engagement,2025-02-21T11:37:15,2025-05-02T12:53:44,2025-02,756,255,131,3
+camp_169,Campaña New,Promover contenido,2024-09-17T22:15:24,2025-05-26T10:29:10,2024-09,351,494,96,2
+camp_170,Campaña System,Captar nuevos usuarios,2024-09-10T15:17:52,2025-06-28T16:47:34,2024-09,643,426,48,4
+camp_171,Campaña Point,Aumentar engagement,2024-07-22T13:22:19,2025-04-27T09:23:20,2024-07,187,60,34,1
+camp_172,Campaña Kind,Aumentar engagement,2024-11-29T06:55:18,2025-04-27T18:49:43,2024-11,420,232,133,1
+camp_173,Campaña Four,Promover contenido,2025-03-06T21:54:21,2025-06-26T20:49:43,2025-03,960,83,215,2
+camp_174,Campaña Participant,Promover contenido,2024-11-14T10:27:07,2025-05-03T17:38:16,2024-11,586,223,119,5
+camp_175,Campaña Meet,Captar nuevos usuarios,2024-11-02T22:35:11,2025-05-30T22:59:06,2024-11,263,500,107,3
+camp_176,Campaña Together,Captar nuevos usuarios,2025-02-11T15:46:00,2025-07-07T07:43:49,2025-02,733,259,111,2
+camp_177,Campaña Sit,Captar nuevos usuarios,2025-01-23T12:35:20,2025-04-27T05:18:37,2025-01,968,177,88,5
+camp_178,Campaña Herself,Aumentar engagement,2025-03-22T06:06:09,2025-05-19T19:23:15,2025-03,873,70,99,2
+camp_179,Campaña Simple,Aumentar engagement,2024-10-10T13:40:34,2025-05-06T08:49:58,2024-10,700,402,215,4
+camp_180,Campaña Democratic,Aumentar engagement,2024-08-12T01:42:39,2025-06-19T11:58:09,2024-08,603,393,206,4
+camp_181,Campaña Like,Aumentar engagement,2025-02-23T14:15:05,2025-07-01T18:39:03,2025-02,281,119,183,3
+camp_182,Campaña Drive,Captar nuevos usuarios,2024-08-12T06:53:32,2025-07-03T14:43:41,2024-08,301,374,194,4
+camp_183,Campaña Reduce,Aumentar engagement,2024-10-06T09:47:15,2025-06-18T20:55:57,2024-10,463,358,283,3
+camp_184,Campaña Fire,Captar nuevos usuarios,2025-01-23T21:39:20,2025-05-19T14:40:09,2025-01,527,136,216,1
+camp_185,Campaña Watch,Captar nuevos usuarios,2024-12-11T08:03:10,2025-07-12T01:10:23,2024-12,124,300,193,3
+camp_186,Campaña Attack,Aumentar engagement,2025-03-11T22:55:13,2025-07-07T09:17:44,2025-03,817,206,164,2
+camp_187,Campaña Land,Captar nuevos usuarios,2024-08-21T10:15:20,2025-07-10T01:25:54,2024-08,877,386,264,4
+camp_188,Campaña Majority,Captar nuevos usuarios,2024-12-09T23:46:33,2025-05-22T15:37:15,2024-12,132,116,35,1
+camp_189,Campaña Professor,Promover contenido,2024-08-04T06:27:50,2025-05-01T10:59:52,2024-08,489,248,48,5
+camp_190,Campaña Budget,Promover contenido,2024-07-23T13:02:25,2025-07-04T11:12:57,2024-07,922,312,247,3
+camp_191,Campaña Again,Promover contenido,2024-08-01T10:52:49,2025-05-04T06:38:49,2024-08,836,183,128,4
+camp_192,Campaña Moment,Promover contenido,2025-02-05T19:28:32,2025-05-28T19:17:46,2025-02,787,93,193,4
+camp_193,Campaña Foot,Aumentar engagement,2025-03-30T01:44:21,2025-06-15T22:14:04,2025-03,348,88,120,5
+camp_194,Campaña Spend,Aumentar engagement,2025-02-19T06:58:14,2025-05-22T06:18:07,2025-02,897,94,68,3
+camp_195,Campaña View,Aumentar engagement,2025-02-03T06:31:05,2025-06-21T16:55:28,2025-02,854,463,204,1
+camp_196,Campaña Whole,Promover contenido,2025-01-11T20:21:15,2025-04-23T02:22:39,2025-01,746,497,199,5
+camp_197,Campaña Special,Aumentar engagement,2024-07-17T13:32:39,2025-05-21T16:55:26,2024-07,157,410,101,1
+camp_198,Campaña Camera,Aumentar engagement,2025-03-19T19:33:33,2025-04-29T18:46:32,2025-03,290,96,76,2
+camp_199,Campaña Year,Captar nuevos usuarios,2024-11-19T01:38:49,2025-05-09T16:36:43,2024-11,338,157,55,1
+camp_200,Campaña Must,Promover contenido,2025-03-25T18:35:58,2025-04-22T19:24:04,2025-03,740,321,128,1
+camp_201,Campaña Two,Captar nuevos usuarios,2025-03-24T22:16:12,2025-07-02T21:28:32,2025-03,823,145,270,4
+camp_202,Campaña Know,Aumentar engagement,2024-09-28T16:27:49,2025-04-26T21:36:36,2024-09,553,144,289,3
+camp_203,Campaña Positive,Aumentar engagement,2025-04-13T13:04:25,2025-04-17T21:28:11,2025-04,302,184,103,1
+camp_204,Campaña Give,Captar nuevos usuarios,2024-10-07T10:02:10,2025-07-12T18:05:57,2024-10,879,88,126,5
+camp_205,Campaña Mission,Aumentar engagement,2024-12-11T09:29:02,2025-06-14T16:35:11,2024-12,266,252,181,2
+camp_206,Campaña Detail,Promover contenido,2024-09-19T21:06:12,2025-06-27T12:24:24,2024-09,356,472,206,5
+camp_207,Campaña Only,Captar nuevos usuarios,2025-01-13T05:53:55,2025-06-18T03:34:28,2025-01,799,178,174,2
+camp_208,Campaña Parent,Aumentar engagement,2025-04-07T03:10:01,2025-05-03T21:52:26,2025-04,605,226,60,2
+camp_209,Campaña Section,Captar nuevos usuarios,2025-01-25T00:05:07,2025-05-15T11:40:33,2025-01,556,56,75,5
+camp_210,Campaña Republican,Promover contenido,2024-12-12T01:32:58,2025-07-01T20:09:13,2024-12,814,398,63,3
+camp_211,Campaña Culture,Promover contenido,2024-09-23T03:13:24,2025-05-25T23:53:17,2024-09,860,465,275,5
+camp_212,Campaña Whether,Promover contenido,2025-01-31T20:50:50,2025-06-22T06:54:11,2025-01,420,329,127,3
+camp_213,Campaña Popular,Aumentar engagement,2025-01-16T09:04:14,2025-05-18T10:13:17,2025-01,807,230,239,2
+camp_214,Campaña Day,Promover contenido,2024-08-19T03:04:38,2025-04-25T01:42:10,2024-08,574,494,267,4
+camp_215,Campaña Skin,Promover contenido,2024-11-27T17:44:25,2025-05-03T11:58:47,2024-11,529,62,101,4
+camp_216,Campaña Relate,Aumentar engagement,2024-10-24T15:42:11,2025-06-30T09:04:22,2024-10,509,237,37,3
+camp_217,Campaña Student,Aumentar engagement,2024-10-03T18:47:45,2025-06-08T23:03:10,2024-10,254,353,124,4
+camp_218,Campaña Million,Promover contenido,2024-09-05T15:54:10,2025-07-10T01:08:20,2024-09,583,126,168,2
+camp_219,Campaña Realize,Promover contenido,2024-07-25T19:58:16,2025-05-30T18:39:02,2024-07,262,205,172,3
+camp_220,Campaña Garden,Captar nuevos usuarios,2025-01-04T20:35:25,2025-06-15T03:05:40,2025-01,841,305,251,2
+camp_221,Campaña Data,Captar nuevos usuarios,2024-08-22T07:17:56,2025-05-17T18:25:36,2024-08,161,230,84,4
+camp_222,Campaña Traditional,Promover contenido,2025-03-25T10:46:46,2025-05-16T17:30:22,2025-03,822,294,178,1
+camp_223,Campaña Enter,Promover contenido,2025-03-26T15:58:32,2025-06-15T17:20:41,2025-03,922,160,243,2
+camp_224,Campaña Executive,Aumentar engagement,2024-08-29T07:13:16,2025-06-14T06:24:36,2024-08,446,372,189,4
+camp_225,Campaña Seat,Captar nuevos usuarios,2025-02-19T20:20:17,2025-05-24T02:11:03,2025-02,388,224,221,5
+camp_226,Campaña Receive,Promover contenido,2024-10-28T13:04:57,2025-05-18T06:17:38,2024-10,164,59,258,2
+camp_227,Campaña Resource,Promover contenido,2025-02-23T19:26:33,2025-06-30T09:18:06,2025-02,804,169,190,3
+camp_228,Campaña Source,Captar nuevos usuarios,2025-03-25T16:46:11,2025-05-24T22:35:12,2025-03,912,219,129,4
+camp_229,Campaña Control,Captar nuevos usuarios,2025-03-18T10:53:38,2025-05-13T03:05:26,2025-03,686,167,151,2
+camp_230,Campaña Relationship,Promover contenido,2024-10-02T06:27:53,2025-06-10T07:13:11,2024-10,119,210,291,2
+camp_231,Campaña Fall,Aumentar engagement,2024-07-18T02:04:07,2025-06-12T10:06:00,2024-07,738,214,71,1
+camp_232,Campaña Yourself,Captar nuevos usuarios,2024-09-08T10:09:54,2025-07-01T01:59:50,2024-09,372,84,260,5
+camp_233,Campaña Mind,Promover contenido,2025-01-05T03:01:05,2025-06-21T04:07:38,2025-01,828,123,216,4
+camp_234,Campaña Bad,Aumentar engagement,2024-11-30T09:26:26,2025-05-31T08:37:03,2024-11,328,374,31,1
+camp_235,Campaña Too,Promover contenido,2024-10-12T08:53:57,2025-06-21T06:17:44,2024-10,675,124,169,3
+camp_236,Campaña Provide,Captar nuevos usuarios,2024-12-23T09:58:55,2025-06-07T21:08:55,2024-12,304,471,126,3
+camp_237,Campaña Glass,Captar nuevos usuarios,2024-07-17T18:34:59,2025-06-19T10:42:18,2024-07,299,318,288,5
+camp_238,Campaña Light,Promover contenido,2024-08-07T10:56:08,2025-05-18T17:45:29,2024-08,817,469,35,3
+camp_239,Campaña Represent,Promover contenido,2024-08-27T06:26:21,2025-07-13T14:05:02,2024-08,125,64,245,3
+camp_240,Campaña Number,Promover contenido,2024-09-14T05:29:24,2025-05-21T13:31:18,2024-09,894,125,258,1
+camp_241,Campaña Behavior,Promover contenido,2025-03-23T15:01:48,2025-04-29T03:16:51,2025-03,210,190,263,4
+camp_242,Campaña Street,Promover contenido,2024-07-27T11:24:03,2025-05-06T05:09:38,2024-07,391,133,95,3
+camp_243,Campaña Behind,Aumentar engagement,2025-03-26T05:38:14,2025-06-08T04:51:47,2025-03,988,217,274,3
+camp_244,Campaña Leader,Captar nuevos usuarios,2025-01-07T12:34:38,2025-04-30T07:13:38,2025-01,484,331,43,3
+camp_245,Campaña After,Promover contenido,2025-01-16T19:37:46,2025-05-22T02:27:44,2025-01,727,478,47,4
+camp_246,Campaña Particular,Captar nuevos usuarios,2024-08-25T13:29:04,2025-05-14T05:09:38,2024-08,140,311,58,3
+camp_247,Campaña Fall,Aumentar engagement,2024-12-07T14:13:24,2025-05-27T20:13:40,2024-12,243,127,82,2
+camp_248,Campaña Laugh,Promover contenido,2024-08-14T14:14:58,2025-06-16T17:53:19,2024-08,465,223,71,5
+camp_249,Campaña Involve,Promover contenido,2024-12-18T21:48:52,2025-06-27T07:46:41,2024-12,658,81,298,4
+camp_250,Campaña Machine,Aumentar engagement,2025-04-08T03:42:15,2025-05-24T04:07:02,2025-04,661,471,75,4
+camp_251,Campaña Style,Aumentar engagement,2024-07-19T07:59:30,2025-04-26T13:53:56,2024-07,881,494,163,2
+camp_252,Campaña Service,Captar nuevos usuarios,2024-11-21T21:45:06,2025-04-22T22:09:45,2024-11,799,335,42,2
+camp_253,Campaña Sense,Captar nuevos usuarios,2024-10-28T14:29:36,2025-05-10T09:35:21,2024-10,330,295,51,1
+camp_254,Campaña Expert,Aumentar engagement,2024-07-16T04:39:17,2025-07-01T06:09:22,2024-07,256,495,100,1
+camp_255,Campaña Beat,Captar nuevos usuarios,2024-07-16T00:21:24,2025-05-05T14:53:40,2024-07,505,59,291,5
+camp_256,Campaña Including,Captar nuevos usuarios,2025-03-26T15:06:36,2025-05-23T17:52:05,2025-03,813,262,64,3
+camp_257,Campaña Guess,Captar nuevos usuarios,2025-01-07T18:49:45,2025-05-24T08:53:58,2025-01,136,156,147,1
+camp_258,Campaña Run,Captar nuevos usuarios,2024-11-10T17:21:06,2025-06-01T10:10:54,2024-11,476,310,114,5
+camp_259,Campaña Hospital,Captar nuevos usuarios,2024-12-25T10:40:36,2025-07-08T13:58:57,2024-12,862,368,174,4
+camp_260,Campaña Quality,Promover contenido,2024-12-15T22:50:45,2025-05-22T20:13:49,2024-12,263,477,133,3
+camp_261,Campaña Skill,Promover contenido,2025-01-09T11:39:02,2025-07-12T07:06:23,2025-01,502,111,176,5
+camp_262,Campaña Data,Captar nuevos usuarios,2024-09-07T17:01:23,2025-06-13T16:58:30,2024-09,787,312,237,4
+camp_263,Campaña Question,Aumentar engagement,2025-01-16T17:15:18,2025-06-03T04:43:19,2025-01,496,461,84,2
+camp_264,Campaña Fish,Captar nuevos usuarios,2024-08-17T02:03:37,2025-06-30T20:24:03,2024-08,853,432,182,2
+camp_265,Campaña Artist,Promover contenido,2024-11-23T17:15:46,2025-04-17T21:16:46,2024-11,469,287,57,2
+camp_266,Campaña Lead,Promover contenido,2025-02-02T10:27:42,2025-05-19T02:55:14,2025-02,322,311,42,2
+camp_267,Campaña Possible,Aumentar engagement,2024-07-23T18:47:55,2025-07-03T13:05:00,2024-07,981,220,135,3
+camp_268,Campaña Soldier,Promover contenido,2024-09-12T14:40:43,2025-05-11T01:13:48,2024-09,500,358,114,4
+camp_269,Campaña Either,Captar nuevos usuarios,2024-08-05T19:04:26,2025-06-16T00:55:06,2024-08,977,177,69,4
+camp_270,Campaña Step,Captar nuevos usuarios,2024-11-07T22:51:40,2025-07-13T03:36:03,2024-11,151,488,35,5
+camp_271,Campaña Turn,Promover contenido,2024-12-28T03:39:35,2025-06-30T11:38:44,2024-12,490,423,111,3
+camp_272,Campaña Scientist,Promover contenido,2024-09-25T18:54:44,2025-04-29T00:14:01,2024-09,320,380,127,1
+camp_273,Campaña Foreign,Promover contenido,2025-04-14T15:08:36,2025-06-03T17:37:18,2025-04,527,384,41,4
+camp_274,Campaña Provide,Aumentar engagement,2024-07-24T17:17:59,2025-07-10T11:47:13,2024-07,409,122,164,3
+camp_275,Campaña Kid,Aumentar engagement,2024-08-22T13:22:30,2025-07-07T22:55:29,2024-08,223,375,45,4
+camp_276,Campaña How,Captar nuevos usuarios,2024-11-22T11:55:36,2025-05-09T00:17:34,2024-11,340,283,169,4
+camp_277,Campaña To,Promover contenido,2025-01-11T09:05:05,2025-05-08T22:57:24,2025-01,164,424,108,3
+camp_278,Campaña Think,Captar nuevos usuarios,2024-07-20T13:15:28,2025-05-18T21:12:57,2024-07,486,65,49,2
+camp_279,Campaña Democrat,Aumentar engagement,2024-11-07T17:01:20,2025-05-03T15:14:04,2024-11,113,345,52,4
+camp_280,Campaña Of,Promover contenido,2025-03-04T05:54:24,2025-04-17T15:06:59,2025-03,826,194,275,1
+camp_281,Campaña Military,Aumentar engagement,2025-02-05T17:59:48,2025-04-24T10:46:07,2025-02,787,189,126,2
+camp_282,Campaña Prove,Aumentar engagement,2024-12-24T21:41:59,2025-05-02T01:59:32,2024-12,765,72,252,2
+camp_283,Campaña Particular,Captar nuevos usuarios,2024-10-02T05:23:28,2025-04-23T16:22:49,2024-10,968,430,54,5
+camp_284,Campaña World,Promover contenido,2025-02-24T03:00:39,2025-07-04T14:16:46,2025-02,567,470,271,3
+camp_285,Campaña Range,Captar nuevos usuarios,2024-12-09T08:35:53,2025-04-28T10:36:34,2024-12,664,326,104,5
+camp_286,Campaña He,Promover contenido,2024-08-06T10:28:15,2025-06-03T03:06:40,2024-08,278,347,235,3
+camp_287,Campaña Brother,Promover contenido,2024-08-04T05:28:22,2025-05-29T13:11:31,2024-08,251,466,283,3
+camp_288,Campaña Information,Captar nuevos usuarios,2024-08-31T21:48:52,2025-05-26T04:44:50,2024-08,359,120,200,5
+camp_289,Campaña Pm,Captar nuevos usuarios,2024-08-05T19:41:42,2025-05-09T00:10:55,2024-08,982,398,114,3
+camp_290,Campaña Lead,Captar nuevos usuarios,2025-01-10T03:06:29,2025-04-23T05:21:23,2025-01,980,370,104,1
+camp_291,Campaña Glass,Aumentar engagement,2025-02-24T09:20:25,2025-04-23T07:30:38,2025-02,971,458,101,5
+camp_292,Campaña Exist,Promover contenido,2024-08-30T14:38:49,2025-04-29T05:41:59,2024-08,183,471,244,2
+camp_293,Campaña Magazine,Captar nuevos usuarios,2025-03-27T17:53:13,2025-07-08T03:57:11,2025-03,142,316,83,1
+camp_294,Campaña Painting,Aumentar engagement,2025-03-21T02:11:09,2025-07-09T14:56:14,2025-03,857,166,201,5
+camp_295,Campaña Responsibility,Promover contenido,2025-01-13T20:58:20,2025-05-30T15:22:12,2025-01,661,252,297,4
+camp_296,Campaña Politics,Promover contenido,2024-12-29T21:45:26,2025-06-22T03:11:43,2024-12,804,434,84,4
+camp_297,Campaña Degree,Promover contenido,2024-08-24T23:27:23,2025-06-14T08:03:28,2024-08,259,477,126,2
+camp_298,Campaña Parent,Captar nuevos usuarios,2024-11-03T08:13:42,2025-05-27T15:56:06,2024-11,919,105,283,1
+camp_299,Campaña Level,Captar nuevos usuarios,2024-07-28T03:49:12,2025-06-11T17:49:27,2024-07,413,173,237,2
+camp_300,Campaña Wonder,Captar nuevos usuarios,2025-03-14T03:44:35,2025-05-25T05:17:37,2025-03,198,467,127,3
+camp_301,Campaña Report,Aumentar engagement,2024-08-03T12:46:52,2025-06-09T23:23:28,2024-08,402,111,136,1
+camp_302,Campaña Main,Captar nuevos usuarios,2024-10-28T22:12:32,2025-06-16T10:04:33,2024-10,173,84,159,2
+camp_303,Campaña Kitchen,Promover contenido,2024-08-11T12:11:28,2025-07-10T09:53:00,2024-08,777,256,35,4
+camp_304,Campaña Church,Promover contenido,2024-09-11T17:05:19,2025-06-15T08:54:24,2024-09,538,367,274,5
+camp_305,Campaña Travel,Promover contenido,2025-01-30T04:21:08,2025-05-08T21:13:56,2025-01,427,229,45,5
+camp_306,Campaña Affect,Promover contenido,2025-01-30T21:32:12,2025-06-21T15:04:30,2025-01,870,325,80,3
+camp_307,Campaña Social,Promover contenido,2025-01-21T22:54:16,2025-06-09T03:42:16,2025-01,801,301,43,4
+camp_308,Campaña Nation,Aumentar engagement,2024-11-13T09:24:27,2025-06-25T18:22:57,2024-11,586,179,77,4
+camp_309,Campaña Manager,Captar nuevos usuarios,2025-01-07T06:52:06,2025-07-09T02:27:40,2025-01,950,416,78,1
+camp_310,Campaña Order,Captar nuevos usuarios,2025-02-10T00:16:32,2025-06-05T23:42:21,2025-02,580,67,195,4
+camp_311,Campaña What,Promover contenido,2025-01-27T15:30:58,2025-05-02T11:46:25,2025-01,321,364,240,3
+camp_312,Campaña Establish,Captar nuevos usuarios,2024-10-07T19:38:27,2025-05-31T19:48:28,2024-10,231,353,44,1
+camp_313,Campaña Happen,Promover contenido,2025-03-14T01:48:56,2025-05-26T18:38:09,2025-03,813,339,228,5
+camp_314,Campaña Nice,Aumentar engagement,2024-12-14T17:56:30,2025-06-08T20:19:53,2024-12,814,314,281,5
+camp_315,Campaña Right,Promover contenido,2024-12-29T22:20:53,2025-05-04T19:18:58,2024-12,974,133,50,2
+camp_316,Campaña Likely,Aumentar engagement,2024-10-22T03:00:32,2025-06-05T09:12:51,2024-10,803,129,69,3
+camp_317,Campaña Culture,Aumentar engagement,2025-04-11T22:22:28,2025-05-10T08:59:13,2025-04,105,248,120,2
+camp_318,Campaña Actually,Promover contenido,2024-07-29T12:12:41,2025-06-11T22:52:16,2024-07,986,399,282,4
+camp_319,Campaña Sell,Captar nuevos usuarios,2025-01-02T14:36:34,2025-04-23T21:57:16,2025-01,218,101,114,2
+camp_320,Campaña Way,Captar nuevos usuarios,2024-11-18T15:04:38,2025-05-12T14:36:26,2024-11,676,62,254,2
+camp_321,Campaña Method,Aumentar engagement,2024-11-21T22:16:12,2025-06-13T22:42:27,2024-11,825,318,218,4
+camp_322,Campaña Hear,Promover contenido,2024-07-21T19:40:05,2025-04-28T20:27:45,2024-07,670,409,246,5
+camp_323,Campaña Task,Aumentar engagement,2024-09-29T02:53:07,2025-07-09T08:19:03,2024-09,369,499,213,1
+camp_324,Campaña Sort,Aumentar engagement,2024-10-07T12:58:23,2025-05-24T23:14:23,2024-10,223,62,112,4
+camp_325,Campaña Local,Aumentar engagement,2024-09-12T09:59:14,2025-06-27T04:34:28,2024-09,780,150,258,1
+camp_326,Campaña Really,Captar nuevos usuarios,2024-08-18T17:45:48,2025-04-23T23:53:50,2024-08,289,348,241,5
+camp_327,Campaña Thing,Aumentar engagement,2024-11-19T19:45:06,2025-05-24T16:44:50,2024-11,337,153,105,1
+camp_328,Campaña Like,Promover contenido,2025-02-03T07:15:10,2025-04-24T01:03:31,2025-02,111,240,60,3
+camp_329,Campaña Factor,Promover contenido,2024-07-22T12:31:12,2025-06-08T15:13:43,2024-07,699,321,34,5
+camp_330,Campaña Collection,Promover contenido,2025-02-08T06:48:40,2025-05-05T08:14:04,2025-02,349,490,275,3
+camp_331,Campaña Yourself,Promover contenido,2024-11-06T17:08:47,2025-06-29T16:01:48,2024-11,589,295,139,2
+camp_332,Campaña There,Promover contenido,2024-12-20T04:29:21,2025-05-17T14:00:35,2024-12,666,374,66,1
+camp_333,Campaña Writer,Captar nuevos usuarios,2025-03-09T04:25:13,2025-06-19T00:13:41,2025-03,248,490,64,2
+camp_334,Campaña Themselves,Aumentar engagement,2024-08-30T20:18:19,2025-06-18T19:55:19,2024-08,741,435,241,4
+camp_335,Campaña Education,Promover contenido,2025-01-06T03:28:54,2025-04-25T08:44:08,2025-01,516,80,251,3
+camp_336,Campaña Kitchen,Promover contenido,2024-11-19T05:58:55,2025-04-23T01:17:43,2024-11,899,252,44,1
+camp_337,Campaña Out,Promover contenido,2024-10-31T19:16:25,2025-06-21T16:25:05,2024-10,500,280,145,2
+camp_338,Campaña Push,Captar nuevos usuarios,2024-09-18T17:45:23,2025-06-21T01:58:35,2024-09,516,380,110,2
+camp_339,Campaña Take,Promover contenido,2024-10-07T17:57:34,2025-06-20T18:24:32,2024-10,609,445,68,2
+camp_340,Campaña Born,Captar nuevos usuarios,2024-12-07T18:05:30,2025-07-14T14:49:44,2024-12,186,410,104,4
+camp_341,Campaña Over,Promover contenido,2024-12-21T04:42:29,2025-06-18T15:11:57,2024-12,502,193,267,1
+camp_342,Campaña Eat,Captar nuevos usuarios,2025-01-13T20:03:39,2025-06-08T22:10:45,2025-01,434,207,270,3
+camp_343,Campaña Bed,Captar nuevos usuarios,2024-10-10T02:46:32,2025-04-29T02:17:28,2024-10,703,405,100,5
+camp_344,Campaña Us,Promover contenido,2025-03-26T11:31:16,2025-07-07T04:14:40,2025-03,645,314,62,4
+camp_345,Campaña Popular,Promover contenido,2024-08-08T23:40:59,2025-05-23T00:28:56,2024-08,995,197,292,3
+camp_346,Campaña Born,Promover contenido,2025-01-30T17:16:01,2025-06-27T05:16:45,2025-01,345,339,127,2
+camp_347,Campaña Bad,Promover contenido,2024-10-17T08:06:55,2025-05-24T15:13:51,2024-10,630,396,240,3
+camp_348,Campaña Surface,Captar nuevos usuarios,2025-02-25T22:56:49,2025-07-04T14:50:46,2025-02,774,146,101,3
+camp_349,Campaña Agency,Captar nuevos usuarios,2024-07-25T20:23:50,2025-05-14T09:32:24,2024-07,655,333,194,3
+camp_350,Campaña Weight,Captar nuevos usuarios,2025-01-02T12:57:49,2025-06-14T07:24:12,2025-01,632,138,90,2
+camp_351,Campaña Anything,Captar nuevos usuarios,2024-11-10T15:10:10,2025-05-29T14:04:23,2024-11,908,374,202,3
+camp_352,Campaña Similar,Promover contenido,2024-11-11T04:19:51,2025-05-14T22:42:53,2024-11,483,175,230,2
+camp_353,Campaña Piece,Promover contenido,2024-10-25T06:21:19,2025-04-23T10:43:28,2024-10,650,224,104,4
+camp_354,Campaña Speech,Aumentar engagement,2024-11-27T10:18:56,2025-06-22T20:57:12,2024-11,485,466,231,3
+camp_355,Campaña Support,Aumentar engagement,2025-02-12T19:07:39,2025-04-23T22:12:18,2025-02,931,180,283,1
+camp_356,Campaña Get,Promover contenido,2024-08-22T18:37:39,2025-06-15T08:21:06,2024-08,623,340,245,4
+camp_357,Campaña Soon,Promover contenido,2024-10-10T03:01:49,2025-06-16T10:52:02,2024-10,743,300,85,2
+camp_358,Campaña Especially,Aumentar engagement,2024-09-14T02:18:40,2025-06-04T15:15:15,2024-09,285,112,215,4
+camp_359,Campaña Opportunity,Aumentar engagement,2025-02-19T21:43:02,2025-07-12T16:57:31,2025-02,384,105,167,1
+camp_360,Campaña Better,Captar nuevos usuarios,2025-04-14T18:23:56,2025-06-17T09:34:40,2025-04,803,266,134,2
+camp_361,Campaña Baby,Captar nuevos usuarios,2025-03-14T06:44:36,2025-06-23T04:42:44,2025-03,680,80,35,1
+camp_362,Campaña College,Captar nuevos usuarios,2024-12-31T04:15:59,2025-07-03T06:52:11,2024-12,836,191,175,1
+camp_363,Campaña Thousand,Captar nuevos usuarios,2025-02-08T08:37:46,2025-06-14T12:57:32,2025-02,684,434,166,4
+camp_364,Campaña Arm,Captar nuevos usuarios,2024-07-23T19:42:02,2025-06-17T04:07:08,2024-07,698,212,142,5
+camp_365,Campaña Month,Promover contenido,2024-12-28T01:06:51,2025-06-22T11:10:21,2024-12,308,327,38,2
+camp_366,Campaña Apply,Captar nuevos usuarios,2025-03-21T08:46:21,2025-05-28T16:01:24,2025-03,728,188,278,2
+camp_367,Campaña The,Aumentar engagement,2025-02-03T14:16:34,2025-04-24T16:09:30,2025-02,965,258,143,1
+camp_368,Campaña Wait,Aumentar engagement,2024-11-05T19:57:26,2025-05-17T13:20:46,2024-11,277,162,173,2
+camp_369,Campaña Trade,Aumentar engagement,2024-08-15T23:19:15,2025-05-29T06:21:41,2024-08,787,207,252,1
+camp_370,Campaña War,Aumentar engagement,2025-03-20T15:56:27,2025-05-29T01:05:56,2025-03,337,101,71,5
+camp_371,Campaña Truth,Captar nuevos usuarios,2024-12-13T14:15:57,2025-04-26T22:41:22,2024-12,493,485,224,4
+camp_372,Campaña Board,Promover contenido,2025-01-16T20:03:07,2025-06-30T08:06:40,2025-01,310,394,281,1
+camp_373,Campaña Man,Promover contenido,2025-04-07T14:05:16,2025-05-02T09:24:03,2025-04,121,305,289,4
+camp_374,Campaña Thing,Promover contenido,2025-03-09T06:14:25,2025-05-14T15:27:13,2025-03,247,410,69,5
+camp_375,Campaña Common,Promover contenido,2024-07-16T09:12:33,2025-05-27T08:31:28,2024-07,312,161,190,5
+camp_376,Campaña View,Captar nuevos usuarios,2025-01-13T16:23:25,2025-04-22T11:49:06,2025-01,397,168,224,3
+camp_377,Campaña Onto,Captar nuevos usuarios,2024-07-27T04:42:05,2025-05-20T20:32:17,2024-07,349,380,63,5
+camp_378,Campaña Sit,Captar nuevos usuarios,2025-02-02T03:15:08,2025-06-28T20:41:10,2025-02,453,234,225,4
+camp_379,Campaña Guy,Promover contenido,2025-02-15T22:04:04,2025-05-02T12:48:50,2025-02,841,278,247,1
+camp_380,Campaña Far,Promover contenido,2025-04-05T01:33:29,2025-04-18T18:05:53,2025-04,456,167,167,1
+camp_381,Campaña Especially,Aumentar engagement,2025-03-14T14:26:39,2025-06-19T11:48:55,2025-03,272,162,294,3
+camp_382,Campaña Media,Promover contenido,2025-01-19T19:04:36,2025-06-25T17:18:30,2025-01,473,74,147,5
+camp_383,Campaña Return,Aumentar engagement,2025-03-01T12:38:25,2025-06-24T19:16:10,2025-03,194,365,55,1
+camp_384,Campaña Future,Promover contenido,2025-04-14T02:56:38,2025-06-03T15:08:03,2025-04,563,126,180,3
+camp_385,Campaña Control,Promover contenido,2024-11-03T06:08:57,2025-04-18T06:42:42,2024-11,991,145,147,2
+camp_386,Campaña Along,Aumentar engagement,2024-10-13T03:06:53,2025-04-23T07:46:50,2024-10,992,97,56,4
+camp_387,Campaña Decade,Captar nuevos usuarios,2024-08-17T01:20:59,2025-05-23T02:37:50,2024-08,280,197,270,5
+camp_388,Campaña Attention,Aumentar engagement,2025-02-02T13:00:26,2025-07-10T14:11:32,2025-02,717,414,69,4
+camp_389,Campaña Job,Aumentar engagement,2024-08-20T11:50:54,2025-05-31T01:17:32,2024-08,375,468,121,1
+camp_390,Campaña Hand,Promover contenido,2025-03-01T13:17:36,2025-06-10T20:05:14,2025-03,840,141,108,5
+camp_391,Campaña Politics,Promover contenido,2024-12-31T15:20:49,2025-05-04T21:53:40,2024-12,975,137,169,5
+camp_392,Campaña Spring,Aumentar engagement,2024-09-12T18:46:50,2025-06-23T06:03:15,2024-09,503,119,115,5
+camp_393,Campaña Force,Aumentar engagement,2025-03-09T19:46:09,2025-05-17T02:44:26,2025-03,966,117,153,1
+camp_394,Campaña Property,Promover contenido,2025-01-13T11:19:30,2025-05-28T08:05:53,2025-01,351,282,119,5
+camp_395,Campaña Everything,Aumentar engagement,2025-03-23T05:17:13,2025-04-27T09:13:47,2025-03,265,377,51,1
+camp_396,Campaña Poor,Aumentar engagement,2024-10-28T16:01:00,2025-06-13T21:16:40,2024-10,100,197,265,1
+camp_397,Campaña Threat,Captar nuevos usuarios,2024-11-27T02:06:29,2025-07-10T11:51:30,2024-11,654,421,236,5
+camp_398,Campaña Move,Promover contenido,2024-10-05T21:42:37,2025-05-05T05:03:46,2024-10,905,360,237,5
+camp_399,Campaña Him,Aumentar engagement,2024-08-13T20:38:41,2025-06-14T18:55:11,2024-08,615,489,285,3
+camp_400,Campaña Page,Aumentar engagement,2024-07-30T08:11:43,2025-04-25T15:46:31,2024-07,175,357,218,2
+camp_401,Campaña Action,Promover contenido,2024-09-06T13:13:36,2025-07-10T04:56:50,2024-09,491,242,183,3
+camp_402,Campaña Traditional,Aumentar engagement,2024-12-19T07:59:27,2025-05-10T04:29:50,2024-12,868,58,140,3
+camp_403,Campaña Difference,Promover contenido,2024-10-25T12:18:08,2025-06-17T02:05:51,2024-10,985,352,101,4
+camp_404,Campaña Thing,Aumentar engagement,2024-09-05T14:55:37,2025-05-01T16:38:55,2024-09,332,274,159,3
+camp_405,Campaña Level,Aumentar engagement,2025-01-20T11:50:58,2025-06-24T07:54:59,2025-01,574,116,242,4
+camp_406,Campaña Soon,Aumentar engagement,2025-01-15T12:03:40,2025-04-22T22:47:54,2025-01,755,101,181,1
+camp_407,Campaña Night,Promover contenido,2024-11-19T18:17:56,2025-06-12T16:03:20,2024-11,769,496,251,3
+camp_408,Campaña Follow,Promover contenido,2025-04-05T07:37:45,2025-05-03T16:25:15,2025-04,463,470,292,1
+camp_409,Campaña Knowledge,Promover contenido,2025-01-28T04:39:07,2025-05-04T08:26:58,2025-01,169,230,199,5
+camp_410,Campaña Easy,Captar nuevos usuarios,2025-03-12T05:49:23,2025-06-20T13:53:02,2025-03,269,55,81,2
+camp_411,Campaña Six,Captar nuevos usuarios,2024-12-02T14:13:14,2025-06-28T14:31:44,2024-12,376,80,42,2
+camp_412,Campaña Hospital,Promover contenido,2024-10-26T02:51:36,2025-05-06T21:30:28,2024-10,513,221,265,5
+camp_413,Campaña Rule,Promover contenido,2024-10-31T16:30:09,2025-05-12T11:38:06,2024-10,152,460,294,3
+camp_414,Campaña Nothing,Promover contenido,2024-09-24T05:47:02,2025-04-26T11:56:19,2024-09,881,313,48,5
+camp_415,Campaña Effect,Aumentar engagement,2025-02-03T13:49:22,2025-06-18T03:19:20,2025-02,944,243,199,5
+camp_416,Campaña Above,Aumentar engagement,2024-08-30T03:14:06,2025-04-29T08:14:23,2024-08,245,440,130,4
+camp_417,Campaña Form,Promover contenido,2025-03-24T06:19:15,2025-07-09T21:31:33,2025-03,382,251,142,1
+camp_418,Campaña Group,Promover contenido,2025-01-16T23:36:01,2025-05-26T23:36:13,2025-01,112,118,129,1
+camp_419,Campaña Play,Aumentar engagement,2024-10-30T23:47:11,2025-07-02T05:24:07,2024-10,537,330,160,4
+camp_420,Campaña Black,Aumentar engagement,2025-04-02T16:18:54,2025-05-23T14:38:55,2025-04,979,69,165,2
+camp_421,Campaña True,Aumentar engagement,2024-08-24T11:47:59,2025-05-08T01:58:09,2024-08,788,302,88,4
+camp_422,Campaña Prevent,Promover contenido,2025-02-12T12:56:08,2025-06-30T16:25:39,2025-02,931,225,220,1
+camp_423,Campaña Walk,Captar nuevos usuarios,2024-12-03T09:43:24,2025-05-23T09:24:55,2024-12,933,429,199,4
+camp_424,Campaña Sure,Captar nuevos usuarios,2024-10-20T02:22:53,2025-05-02T21:00:34,2024-10,955,416,296,3
+camp_425,Campaña Western,Aumentar engagement,2024-10-03T03:39:51,2025-06-02T07:25:12,2024-10,331,467,41,3
+camp_426,Campaña High,Captar nuevos usuarios,2024-07-21T00:44:28,2025-06-05T13:55:06,2024-07,407,305,237,4
+camp_427,Campaña Son,Captar nuevos usuarios,2024-10-07T09:29:57,2025-06-15T19:52:32,2024-10,407,460,161,1
+camp_428,Campaña Miss,Aumentar engagement,2024-10-17T16:32:42,2025-04-29T00:31:49,2024-10,668,164,142,1
+camp_429,Campaña Maintain,Aumentar engagement,2024-11-16T17:59:41,2025-07-13T17:38:48,2024-11,200,407,288,2
+camp_430,Campaña Compare,Promover contenido,2024-11-16T19:30:03,2025-05-02T03:40:17,2024-11,680,219,183,3
+camp_431,Campaña Responsibility,Aumentar engagement,2024-10-09T04:54:18,2025-05-01T21:58:17,2024-10,738,296,63,1
+camp_432,Campaña Family,Promover contenido,2024-10-14T18:46:20,2025-05-12T00:05:41,2024-10,515,467,251,3
+camp_433,Campaña Say,Aumentar engagement,2024-09-09T20:04:34,2025-04-26T22:39:28,2024-09,441,239,90,2
+camp_434,Campaña Single,Promover contenido,2024-10-03T01:11:02,2025-06-11T20:40:32,2024-10,505,351,139,3
+camp_435,Campaña Happy,Aumentar engagement,2025-01-19T00:40:36,2025-07-03T11:31:05,2025-01,725,461,114,4
+camp_436,Campaña Parent,Captar nuevos usuarios,2024-12-30T13:41:18,2025-05-19T06:20:46,2024-12,485,486,72,3
+camp_437,Campaña Yes,Aumentar engagement,2025-01-01T09:43:12,2025-05-03T17:15:00,2025-01,915,427,34,1
+camp_438,Campaña Ok,Promover contenido,2024-07-18T03:25:20,2025-06-04T06:40:26,2024-07,194,456,107,2
+camp_439,Campaña Decade,Promover contenido,2024-10-10T02:34:59,2025-05-23T21:56:15,2024-10,281,66,98,1
+camp_440,Campaña After,Captar nuevos usuarios,2024-07-20T09:44:41,2025-05-28T10:21:46,2024-07,946,408,212,3
+camp_441,Campaña Security,Promover contenido,2024-10-24T05:16:27,2025-07-09T19:10:33,2024-10,202,69,72,5
+camp_442,Campaña Rock,Aumentar engagement,2024-11-19T02:39:35,2025-07-01T12:12:21,2024-11,941,148,117,1
+camp_443,Campaña Gas,Captar nuevos usuarios,2025-02-03T19:32:51,2025-04-21T22:10:40,2025-02,398,365,299,4
+camp_444,Campaña Walk,Captar nuevos usuarios,2024-11-11T00:04:46,2025-07-02T12:58:20,2024-11,391,120,63,1
+camp_445,Campaña National,Captar nuevos usuarios,2024-09-19T21:54:34,2025-06-16T03:34:51,2024-09,894,408,293,4
+camp_446,Campaña Wait,Captar nuevos usuarios,2024-11-06T06:14:20,2025-04-21T16:02:42,2024-11,329,402,175,1
+camp_447,Campaña Maybe,Promover contenido,2025-04-05T05:15:45,2025-06-09T03:42:02,2025-04,780,133,272,1
+camp_448,Campaña Collection,Promover contenido,2025-02-02T08:02:09,2025-05-24T10:11:12,2025-02,769,411,235,4
+camp_449,Campaña Culture,Promover contenido,2024-12-04T11:55:42,2025-06-27T22:51:40,2024-12,782,217,137,4
+camp_450,Campaña Hand,Captar nuevos usuarios,2025-02-03T04:18:45,2025-05-30T09:49:30,2025-02,258,68,70,2
+camp_451,Campaña Smile,Aumentar engagement,2024-09-23T09:52:36,2025-06-12T14:23:22,2024-09,251,105,259,1
+camp_452,Campaña Current,Aumentar engagement,2025-01-07T02:06:12,2025-04-19T21:14:31,2025-01,389,444,200,2
+camp_453,Campaña Space,Promover contenido,2024-12-28T18:05:25,2025-07-11T17:41:42,2024-12,545,259,92,3
+camp_454,Campaña Soldier,Aumentar engagement,2024-09-14T16:24:46,2025-06-17T19:02:42,2024-09,584,385,47,5
+camp_455,Campaña Push,Promover contenido,2024-12-02T21:35:42,2025-07-10T23:42:57,2024-12,167,75,46,3
+camp_456,Campaña Move,Promover contenido,2025-01-11T10:44:08,2025-06-26T21:52:34,2025-01,574,387,233,3
+camp_457,Campaña Director,Promover contenido,2024-12-10T09:44:40,2025-04-19T12:19:14,2024-12,863,412,246,3
+camp_458,Campaña Need,Captar nuevos usuarios,2024-08-08T02:44:13,2025-05-23T06:34:08,2024-08,988,408,124,3
+camp_459,Campaña He,Aumentar engagement,2025-02-09T18:03:47,2025-04-30T12:49:00,2025-02,356,262,77,1
+camp_460,Campaña The,Aumentar engagement,2025-04-04T07:48:53,2025-04-30T19:35:01,2025-04,345,312,283,4
+camp_461,Campaña Kid,Aumentar engagement,2024-09-09T09:27:11,2025-06-29T23:56:16,2024-09,527,69,34,3
+camp_462,Campaña Degree,Captar nuevos usuarios,2025-04-16T02:10:55,2025-06-21T03:06:04,2025-04,481,222,31,3
+camp_463,Campaña Beautiful,Captar nuevos usuarios,2024-12-21T08:57:06,2025-06-01T07:15:47,2024-12,306,158,105,1
+camp_464,Campaña Hour,Captar nuevos usuarios,2024-07-23T10:10:39,2025-04-23T18:57:25,2024-07,861,308,170,3
+camp_465,Campaña Become,Captar nuevos usuarios,2024-12-06T08:27:51,2025-05-06T20:14:55,2024-12,301,272,50,5
+camp_466,Campaña To,Promover contenido,2024-09-06T07:34:19,2025-06-18T08:43:57,2024-09,651,436,263,4
+camp_467,Campaña Yeah,Promover contenido,2025-01-06T02:08:43,2025-06-29T04:12:26,2025-01,118,258,62,1
+camp_468,Campaña Ago,Promover contenido,2024-10-07T03:09:15,2025-07-07T17:54:50,2024-10,723,342,148,4
+camp_469,Campaña First,Promover contenido,2024-08-21T16:38:37,2025-07-07T03:40:06,2024-08,371,203,49,3
+camp_470,Campaña West,Captar nuevos usuarios,2024-11-03T12:55:04,2025-05-30T17:08:54,2024-11,360,252,165,2
+camp_471,Campaña Me,Aumentar engagement,2024-11-23T16:22:59,2025-06-30T03:10:13,2024-11,141,163,260,1
+camp_472,Campaña Hundred,Promover contenido,2025-04-12T16:26:34,2025-06-09T12:28:35,2025-04,148,88,170,2
+camp_473,Campaña Mr,Aumentar engagement,2025-04-12T03:41:03,2025-06-22T05:19:13,2025-04,613,494,186,5
+camp_474,Campaña Know,Captar nuevos usuarios,2024-10-05T18:41:11,2025-06-28T02:12:54,2024-10,777,332,177,5
+camp_475,Campaña Method,Aumentar engagement,2024-08-19T11:28:49,2025-05-10T13:44:06,2024-08,498,337,198,1
+camp_476,Campaña Less,Aumentar engagement,2025-03-01T19:11:50,2025-06-13T16:44:42,2025-03,114,400,249,2
+camp_477,Campaña Note,Captar nuevos usuarios,2025-01-15T03:20:21,2025-04-18T09:21:55,2025-01,351,295,40,1
+camp_478,Campaña Network,Captar nuevos usuarios,2024-07-27T16:07:25,2025-07-10T06:55:06,2024-07,848,182,116,1
+camp_479,Campaña Table,Aumentar engagement,2025-04-09T16:58:04,2025-07-09T01:48:00,2025-04,536,154,113,3
+camp_480,Campaña Go,Promover contenido,2024-10-20T00:05:35,2025-06-05T17:44:00,2024-10,416,327,65,3
+camp_481,Campaña Create,Aumentar engagement,2025-02-10T04:37:02,2025-06-13T06:11:52,2025-02,973,51,152,1
+camp_482,Campaña Oil,Promover contenido,2024-08-13T20:23:26,2025-07-04T02:38:53,2024-08,283,108,261,1
+camp_483,Campaña Control,Captar nuevos usuarios,2025-04-15T04:56:49,2025-05-02T04:33:39,2025-04,576,311,92,3
+camp_484,Campaña Real,Aumentar engagement,2024-10-10T05:30:01,2025-06-20T14:27:05,2024-10,464,453,77,4
+camp_485,Campaña Trouble,Aumentar engagement,2025-03-10T04:48:37,2025-05-25T12:31:34,2025-03,658,178,39,3
+camp_486,Campaña Suddenly,Aumentar engagement,2024-11-20T19:39:42,2025-05-31T14:17:21,2024-11,266,124,205,5
+camp_487,Campaña Rise,Captar nuevos usuarios,2024-12-03T21:30:35,2025-07-08T16:02:03,2024-12,647,149,275,2
+camp_488,Campaña Day,Promover contenido,2025-03-23T04:15:49,2025-06-03T21:05:42,2025-03,911,437,251,3
+camp_489,Campaña Structure,Captar nuevos usuarios,2024-12-13T15:57:41,2025-05-13T19:42:04,2024-12,894,465,236,1
+camp_490,Campaña Sure,Captar nuevos usuarios,2024-11-04T12:41:17,2025-05-19T20:58:40,2024-11,752,297,64,2
+camp_491,Campaña Build,Promover contenido,2024-09-15T04:34:57,2025-06-17T10:15:12,2024-09,670,444,264,2
+camp_492,Campaña Generation,Aumentar engagement,2024-12-11T12:57:33,2025-05-02T15:24:02,2024-12,137,281,126,4
+camp_493,Campaña Wrong,Promover contenido,2024-09-19T06:26:53,2025-05-02T11:54:59,2024-09,117,390,220,1
+camp_494,Campaña Actually,Aumentar engagement,2025-02-10T23:31:06,2025-07-11T17:58:49,2025-02,422,491,267,3
+camp_495,Campaña Realize,Aumentar engagement,2024-10-03T10:28:14,2025-07-02T19:57:50,2024-10,708,316,89,1
+camp_496,Campaña Fast,Captar nuevos usuarios,2024-12-21T00:21:55,2025-07-07T07:36:24,2024-12,879,224,91,5
+camp_497,Campaña Establish,Promover contenido,2025-04-04T09:23:23,2025-05-13T17:22:02,2025-04,351,209,247,5
+camp_498,Campaña Such,Aumentar engagement,2024-09-04T16:43:16,2025-06-13T17:17:38,2024-09,407,390,100,3
+camp_499,Campaña Others,Promover contenido,2025-04-08T12:17:31,2025-06-27T20:49:34,2025-04,448,485,240,3
+camp_500,Campaña Imagine,Captar nuevos usuarios,2024-09-01T00:17:55,2025-05-07T23:35:16,2024-09,472,88,285,1

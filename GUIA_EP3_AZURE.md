@@ -173,15 +173,28 @@ que trae encabezados y que no aparecen `correo`, `contenido` ni `hashtags`.
 ## Fase 11 · Power BI (se detalla al llegar aquí)
 Power BI Desktop → **Obtener datos → Azure → Azure Blob Storage** → nombre de la cuenta → clave de cuenta (Storage → **Claves de acceso**;
 no se comparte ni se sube al repositorio) → seleccionar `salida-etl` → **Transformar datos**.
+**Receta para convertir cada CSV en tabla (Power Query):** en la consulta `salida-etl`, clic **derecho** sobre *Binary* del archivo →
+*Agregar como nueva consulta* → **clic en el ícono del archivo** que aparece en la vista previa (la tabla CSV se abre sola; si no
+funciona, escribir en la barra de fórmulas `Csv.Document(` después del `=` y, al final,
+`, [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv])`, y pulsar el ✓) → ícono de tabla (arriba a la izquierda) →
+*Usar la primera fila como encabezado* → renombrar la consulta. **Nunca clic izquierdo sobre *Binary* en `salida-etl`**
+(modifica esa consulta). Al final, clic derecho en `salida-etl` → desmarcar *Habilitar carga*.
+Consultas finales: `campanas`, `campana_publicacion`, `publicaciones`, `reacciones`, `comentarios`.
+
 Modelo en estrella (campañas ↔ puente ↔ publicaciones ↔ reacciones/comentarios), medidas de cumplimiento y 2 o más visualizaciones
 interactivas. Valores de control (calculados por `extraccion_ep3.py --local`): cumplimiento global ≈ **0,69 %** (Aumentar engagement),
 **0,71 %** (Captar nuevos usuarios) y **0,72 %** (Promover contenido).
 
-## Fase 12 · Automatización (se detalla al llegar aquí)
+## Fase 12 · Automatización (hecha y verificada)
 1. Data Factory: **Agregar desencadenador → Nuevo/Editar → Programar** (por ejemplo, una vez al día) y **Publicar todo**.
-2. Power BI: publicar el informe y, en el servicio web, configurar las credenciales del origen y la **actualización programada**
-   (después de la hora del desencadenador).
-3. Al terminar la evaluación: **detener el desencadenador** para no gastar crédito.
+   Hecho: `trigger1`, Schedule, cada 2 días a las 23:21 (Santiago), 20–23/11/2026, estado Iniciado.
+2. Power BI: publicar el informe (**Publicar → Mi área de trabajo**) y, en el servicio web, abrir el modelo semántico →
+   **Configuración → Credenciales de origen de datos** (método *Clave*, privacidad *Organizacional*; la clave la escribe el usuario)
+   y **Actualizar** → programación **Diaria 1:00 a. m., zona Santiago** (después de la hora del desencadenador).
+3. Verificación hecha: `trigger1` ejecutó el pipeline el 20/11 a las 23:21 (25 s, Succeeded), los 5 CSV quedaron con esa fecha y el
+   historial de Power BI muestra actualizaciones **Programado** completadas el 21/11 y el 22/11 a la 1:00 a. m.
+   Capturas en `Evidencias/EP3/` (`ADF_Supervisar_*`, `Blob_salida-etl_CSV_tras_trigger1`, `PowerBI_Historial_Actualizacion_Programada`).
+4. Al terminar la evaluación: **detener el desencadenador** para no gastar crédito (Administrar → Desencadenadores → `trigger1` → Detener → Publicar todo).
 
 ## Evidencias a guardar (carpeta `Evidencias/`)
 Cosmos con los 5 contenedores y COUNT = 500; recursos del grupo `rg-contentflow-ep3`; ambos servicios vinculados con conexión correcta;
