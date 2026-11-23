@@ -193,7 +193,7 @@ interactivas. Valores de control (calculados por `extraccion_ep3.py --local`): c
    y **Actualizar** → programación **Diaria 1:00 a. m., zona Santiago** (después de la hora del desencadenador).
 3. Verificación hecha: `trigger1` ejecutó el pipeline el 20/11 a las 23:21 (25 s, Succeeded), los 5 CSV quedaron con esa fecha y el
    historial de Power BI muestra actualizaciones **Programado** completadas el 21/11 y el 22/11 a la 1:00 a. m.
-   Capturas en `Evidencias/EP3/` (`ADF_Supervisar_*`, `Blob_salida-etl_CSV_tras_trigger1`, `PowerBI_Historial_Actualizacion_Programada`).
+   Capturas en `Evidencias/EP3/` (`EP3_Cosmos_Conteo_*` y `EP3_Cosmos_RU_Consumidas` para Cosmos; `EP3_ADF_Detalle_Copia_*` para filas leídas/escritas; `ADF_Supervisar_*`, `Blob_salida-etl_CSV_tras_trigger1`, `PowerBI_Historial_Actualizacion_Programada`).
 4. Al terminar la evaluación: **detener el desencadenador** para no gastar crédito (Administrar → Desencadenadores → `trigger1` → Detener → Publicar todo).
 
 ## Evidencias a guardar (carpeta `Evidencias/`)

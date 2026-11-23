@@ -68,6 +68,20 @@ Los cinco archivos JSON del caso (`usuarios`, `publicaciones`, `reacciones`, `co
 
 ![Cosmos DB: contenedores de ContentFlowDB y conteo de documentos (500)](Evidencias/EP3/EP3_Cosmos_ExplorerDatos_Conteo.png)
 
+Para comprobar la carga ejecutamos `SELECT VALUE COUNT(1) FROM c` en cada contenedor y los cinco devolvieron **500** documentos (`usuarios` en la captura anterior y los otros cuatro a continuación).
+
+![Conteo de documentos en el contenedor campanas (500)](Evidencias/EP3/EP3_Cosmos_Conteo_campanas.jpg)
+
+![Conteo de documentos en el contenedor publicaciones (500)](Evidencias/EP3/EP3_Cosmos_Conteo_publicaciones.jpg)
+
+![Conteo de documentos en el contenedor reacciones (500)](Evidencias/EP3/EP3_Cosmos_Conteo_reacciones.jpg)
+
+![Conteo de documentos en el contenedor comentarios (500)](Evidencias/EP3/EP3_Cosmos_Conteo_comentarios.jpg)
+
+**Consumo de RU.** La métrica *Total Request Units* de la cuenta Cosmos DB suma unas **19,09 mil RU en los últimos 7 días**, que incluyen la carga inicial de los 2.500 documentos (el pico del gráfico) y las lecturas de las ejecuciones del pipeline. Como la cuenta es *Sin servidor*, ese consumo es lo único que se factura por uso.
+
+![Métrica Total Request Units de Cosmos DB (últimos 7 días)](Evidencias/EP3/EP3_Cosmos_RU_Consumidas.jpg)
+
 ## 5.2 Recursos de Azure
 
 | Recurso | Nombre | Configuración |
@@ -135,6 +149,25 @@ El pipeline se ejecutó correctamente: las cinco copias terminaron en estado **C
 ![Supervisión de Data Factory: las 5 copias en estado Correcto](Evidencias/EP3/EP3_ADF_Supervisar_5Copias_Correcto.png)
 
 ![Detalle de la copia de reacciones: 500 filas leídas y 500 escritas](Evidencias/EP3/EP3_ADF_Detalle_Copia_Reacciones.png)
+
+Las otras cuatro copias también cuadran. En la ejecución disparada por `trigger1` (20/11/2026 23:21) el detalle de cada actividad muestra:
+
+| Copia | Filas leídas | Filas escritas | Datos leídos | Datos escritos |
+|---|---|---|---|---|
+| `Copiar_Campanas_Metas` | 500 | 500 | 163,97 KB | 65,915 KB |
+| `Copiar_Campana_Publicacion` | **1.487** | **1.487** | 114,63 KB | 32,063 KB |
+| `Copiar_Publicaciones` | 500 | 500 | 93,488 KB | 38,022 KB |
+| `Copiar_Comentarios` | 500 | 500 | 87,408 KB | 36,723 KB |
+
+`Copiar_Campana_Publicacion` produce 1.487 filas a partir de 500 campañas porque la consulta despliega la lista `publicaciones_asociadas` de cada campaña (relación muchos a muchos): es la tabla puente del modelo.
+
+![Detalle de la copia de campanas_metas: 500 filas leídas y 500 escritas](Evidencias/EP3/EP3_ADF_Detalle_Copia_CampanasMetas.jpg)
+
+![Detalle de la copia de campana_publicacion: 1.487 filas leídas y 1.487 escritas](Evidencias/EP3/EP3_ADF_Detalle_Copia_CampanaPublicacion.jpg)
+
+![Detalle de la copia de publicaciones: 500 filas leídas y 500 escritas](Evidencias/EP3/EP3_ADF_Detalle_Copia_Publicaciones.jpg)
+
+![Detalle de la copia de comentarios: 500 filas leídas y 500 escritas](Evidencias/EP3/EP3_ADF_Detalle_Copia_Comentarios.jpg)
 
 Los cinco CSV quedaron en el contenedor `salida-etl`:
 
