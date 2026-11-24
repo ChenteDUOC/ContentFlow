@@ -21,7 +21,7 @@ Con los datos disponibles, el cumplimiento de las metas de las campañas es muy 
 
 # 2. Objetivos y motivación
 
-ContentFlow es una plataforma de contenidos donde las personas publican, reaccionan, comentan y participan en campañas. La gerencia quiere identificar **a los usuarios más activos, los contenidos más populares y el impacto de las campañas**. En la EP2 dejamos los datos en la nube y los consultamos; la motivación de esta etapa es pasar de «consultar» a **explotar los datos para decidir**: llevarlos a una herramienta de análisis donde la gerencia vea indicadores y pueda filtrarlos sin escribir consultas.
+ContentFlow es una plataforma de contenidos donde las personas publican, reaccionan, comentan y participan en campañas. La gerencia quiere conocer **el impacto de las campañas y los contenidos más populares**. En la EP2 dejamos los datos en la nube y los consultamos; la motivación de esta etapa es pasar de «consultar» a **explotar los datos para decidir**: llevarlos a una herramienta de análisis donde la gerencia vea indicadores y pueda filtrarlos sin escribir consultas.
 
 **Objetivo general.** Diseñar e implementar un flujo de extracción, transformación y visualización de datos NoSQL en Azure y Power BI que responda las preguntas de negocio priorizadas con la Tabla RICE y se mantenga actualizado automáticamente.
 
@@ -43,8 +43,6 @@ La gerencia de ContentFlow necesita responder tres preguntas. La Tabla RICE conc
 | **De negocio:** ¿qué tipo de objetivo de campaña logra mayor % de cumplimiento mensual? | Dashboard, KPI 1 y KPI 2 |
 | **Operativa:** ¿qué formato, categoría y horario concentran más reacciones? | Dashboard, KPI 3 y KPI 4 |
 | **Técnica:** ¿qué atributos conviene extraer de Cosmos DB con Data Factory considerando estructura y costo en RU/s? | Pipeline de Data Factory y sección 5 de este informe |
-
-La necesidad de la gerencia no se limita a las preguntas RICE: también pidió identificar a los usuarios más activos. Ese análisis queda fuera del dashboard actual (ver sección 12, «Limitaciones y trabajo futuro»), aunque el campo `usuario_id` ya viaja en las tablas extraídas.
 
 # 4. Arquitectura de la solución
 
@@ -350,7 +348,7 @@ A continuación, Power BI actualizó el modelo por su cuenta según la programac
 
 Todas estas diferencias son pequeñas. El conjunto de datos es sintético y de tamaño reducido (500 publicaciones), así que sirven para demostrar el flujo y el dashboard, no para tomar decisiones reales de contenido.
 
-**Limitaciones y trabajo futuro.** (1) Incorporar el análisis de **usuarios más activos**, extrayendo la colección `usuarios` con los atributos que el RICE considere (por ejemplo, `dispositivo`) y sin datos personales. (2) Limitar el cumplimiento a la ventana de cada campaña usando `fecha_fin`. (3) Medir «compartidos» si la plataforma llega a registrarlos. (4) Alinear la frecuencia del pipeline con la de la actualización de Power BI.
+**Limitaciones y trabajo futuro.** (1) Limitar el cumplimiento a la ventana de cada campaña usando `fecha_fin`. (2) Medir «compartidos» si la plataforma llega a registrarlos. (3) Alinear la frecuencia del pipeline con la de la actualización de Power BI.
 
 # 13. Problemas encontrados y soluciones
 
@@ -374,7 +372,7 @@ Todas estas diferencias son pequeñas. El conjunto de datos es sintético y de t
 2. La **Tabla RICE** fue útil como criterio técnico: permitió extraer solo lo necesario (menos RU/s y menos datos movidos) y dejar fuera los datos personales y el texto libre.
 3. Power BI aporta lo que el panel HTML de la EP2 no tenía: **interactividad y actualización programada**.
 4. Los resultados muestran un cumplimiento de metas muy bajo y casi idéntico entre objetivos; por tratarse de datos sintéticos, la lección principal es de método: declarar los límites en lugar de forzar conclusiones.
-5. Quedan como mejora el análisis de usuarios activos y alinear las frecuencias de actualización.
+5. Quedan como mejora limitar el cumplimiento a la ventana de cada campaña y alinear las frecuencias de actualización.
 
 # Anexo A · Cómo reproducir el flujo
 
